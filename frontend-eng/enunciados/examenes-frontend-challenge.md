@@ -71,7 +71,7 @@ Lo que no te deje definir en Mockoon (ejemplo: body del request), documentarlo e
 ### Implementación del frontend
 Implementar el frontend en base a los requerimientos planteados y guiándose con el diseño que se puede encontrar aqui:
 
-
+> ![Examen ejemplo](./examen.png)
 
 Se puede utilizar tanto ES5/ES6 como Typescript para la implementación del code challenge.
 
